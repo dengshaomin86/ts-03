@@ -1,5 +1,9 @@
 import { username } from "./user";
 
+/**
+ * 变量名:类型
+ * string
+ */
 let a: string = "hello";
 
 console.log(a);
